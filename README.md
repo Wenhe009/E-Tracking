@@ -1,4 +1,4 @@
-# E-Tracking(Shopee)
+# E-Tracking(Shopee)(放棄維護)
  統一超商交貨便貨態查詢(包含 OCR 自動辨識驗證碼)  
  本庫使用[ThanatosDi/E-Tracking](https://github.com/ThanatosDi/E-Tracking)改版
 # Install
